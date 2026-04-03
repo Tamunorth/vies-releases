@@ -1,5 +1,10 @@
 [
   {
+    "notes": "Pass commit message via env var to avoid PowerShell injection",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+28/Vies-x86_64-1.0.0+28-Installer.exe",
+    "version": "1.0.0+28"
+  },
+  {
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+26/Vies-x86_64-1.0.0+26-Installer.exe",
     "notes": "fix: make download page styles global so JS-injected cards render correctly\r\n\r\nAstro scoped CSS doesn't apply to innerHTML-injected elements. Changed\r\nstyle block to is:global so the latest-card and release-card classes\r\nwork on dynamically rendered content from the GitHub API.",
     "version": "1.0.0+26"
