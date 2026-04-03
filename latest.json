@@ -1,5 +1,10 @@
 [
   {
+    "notes": "Add Dock Panel to features list on squeezeback tools page",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+32/Vies-x86_64-1.0.0+32-Installer.exe",
+    "version": "1.0.0+32"
+  },
+  {
     "version": "1.0.0+31",
     "notes": "Update squeezeback blog: add dock section, screenshots, and troubleshooting",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+31/Vies-x86_64-1.0.0+31-Installer.exe"
