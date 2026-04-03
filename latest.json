@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+26/Vies-x86_64-1.0.0+26-Installer.exe",
+    "notes": "fix: make download page styles global so JS-injected cards render correctly\r\n\r\nAstro scoped CSS doesn't apply to innerHTML-injected elements. Changed\r\nstyle block to is:global so the latest-card and release-card classes\r\nwork on dynamically rendered content from the GitHub API.",
+    "version": "1.0.0+26"
+  },
+  {
     "version": "1.0.0+25",
     "notes": "feat: restyle download page cards to match tools card design system\r\n\r\nLatest release card: smaller padding, hover lift. Release history cards:\r\ndark border, 3px shadow, green hover with color transitions — matching\r\nthe tool-card pattern from /tools.",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+25/Vies-x86_64-1.0.0+25-Installer.exe"
