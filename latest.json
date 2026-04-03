@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+24",
+    "notes": "feat: polish download page — clean version display, justify layout, strip commit prefixes\r\n\r\nSplit version tag into display version + build number, justify meta row\r\nwith version/badge left and date right, strip chore:/fix:/feat: prefixes\r\nfrom release notes to show human-readable text.",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+24/Vies-x86_64-1.0.0+24-Installer.exe"
+  },
+  {
     "notes": "chore: trigger CI build",
     "version": "1.0.0+23",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+23/Vies-x86_64-1.0.0+23-Installer.exe"
