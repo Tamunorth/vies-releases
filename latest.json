@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+36",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+36/Vies-x86_64-1.0.0+36-Installer.exe",
+    "notes": "Use GITHUB_TOKEN for same-repo engine binary download"
+  },
+  {
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+34/Vies-x86_64-1.0.0+34-Installer.exe",
     "version": "1.0.0+34",
     "notes": "Cross-device verse sharing and OpenLP support"
