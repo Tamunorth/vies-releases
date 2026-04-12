@@ -1,5 +1,10 @@
 [
   {
+    "notes": "Show loopback audio inputs in release builds",
+    "version": "1.0.0+37",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+37/Vies-x86_64-1.0.0+37-Installer.exe"
+  },
+  {
     "version": "1.0.0+36",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+36/Vies-x86_64-1.0.0+36-Installer.exe",
     "notes": "Use GITHUB_TOKEN for same-repo engine binary download"
