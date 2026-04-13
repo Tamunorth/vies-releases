@@ -1,5 +1,10 @@
 [
   {
+    "notes": "Search quality overhaul — stemmer, adaptive thresholds, Jaccard scoring",
+    "version": "1.0.0+39",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+39/Vies-x86_64-1.0.0+39-Installer.exe"
+  },
+  {
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+38/Vies-x86_64-1.0.0+38-Installer.exe",
     "version": "1.0.0+38",
     "notes": "Fresh install UX overhaul — downloads, mics, errors, overlay"
