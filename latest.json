@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+40/Vies-x86_64-1.0.0+40-Installer.exe",
+    "notes": "Slim installer (474MB→170MB) + grouped download dialog",
+    "version": "1.0.0+40"
+  },
+  {
     "notes": "Search quality overhaul — stemmer, adaptive thresholds, Jaccard scoring",
     "version": "1.0.0+39",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+39/Vies-x86_64-1.0.0+39-Installer.exe"
