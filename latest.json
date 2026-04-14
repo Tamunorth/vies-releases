@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+44/Vies-x86_64-1.0.0+44-Installer.exe",
+    "version": "1.0.0+44",
+    "notes": "Create engineDir before zip download + rename .download before extraction"
+  },
+  {
     "version": "1.0.0+43",
     "notes": "Download packs to writable app data dir, not Program Files",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+43/Vies-x86_64-1.0.0+43-Installer.exe"
