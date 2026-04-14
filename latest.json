@@ -1,5 +1,10 @@
 [
   {
+    "notes": "Add ggml-cuda.dll to core engine + move packs to public repo",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+42/Vies-x86_64-1.0.0+42-Installer.exe",
+    "version": "1.0.0+42"
+  },
+  {
     "notes": "Retrigger CI with slim engine-binaries",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+41/Vies-x86_64-1.0.0+41-Installer.exe",
     "version": "1.0.0+41"
