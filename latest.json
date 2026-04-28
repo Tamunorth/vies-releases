@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+49",
+    "notes": "Swap in approved Vies brand assets",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+49/Vies-x86_64-1.0.0+49-Installer.exe"
+  },
+  {
     "version": "1.0.0+48",
     "notes": "Trim Connection Manager listing: drop session-log feature card and config-path detail",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+48/Vies-x86_64-1.0.0+48-Installer.exe"
@@ -93,10 +98,5 @@
     "notes": "Update OBS Squeezeback copy and blog post",
     "version": "1.0.0+29",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+29/Vies-x86_64-1.0.0+29-Installer.exe"
-  },
-  {
-    "notes": "Pass commit message via env var to avoid PowerShell injection",
-    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+28/Vies-x86_64-1.0.0+28-Installer.exe",
-    "version": "1.0.0+28"
   }
 ]
