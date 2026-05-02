@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+55",
+    "notes": "Fix padding around demo video on Connection Manager tool page",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+55/Vies-x86_64-1.0.0+55-Installer.exe"
+  },
+  {
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+54/Vies-x86_64-1.0.0+54-Installer.exe",
     "notes": "Add demo video to Connection Manager tool page",
     "version": "1.0.0+54"
@@ -93,10 +98,5 @@
     "version": "1.0.0+36",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+36/Vies-x86_64-1.0.0+36-Installer.exe",
     "notes": "Use GITHUB_TOKEN for same-repo engine binary download"
-  },
-  {
-    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+34/Vies-x86_64-1.0.0+34-Installer.exe",
-    "version": "1.0.0+34",
-    "notes": "Cross-device verse sharing and OpenLP support"
   }
 ]
