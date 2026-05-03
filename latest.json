@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+56",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+56/Vies-x86_64-1.0.0+56-Installer.exe",
+    "notes": "Per-page OG images, BlogPosting/BreadcrumbList schemas, internal links"
+  },
+  {
     "version": "1.0.0+55",
     "notes": "Fix padding around demo video on Connection Manager tool page",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+55/Vies-x86_64-1.0.0+55-Installer.exe"
@@ -93,10 +98,5 @@
     "notes": "Show loopback audio inputs in release builds",
     "version": "1.0.0+37",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+37/Vies-x86_64-1.0.0+37-Installer.exe"
-  },
-  {
-    "version": "1.0.0+36",
-    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+36/Vies-x86_64-1.0.0+36-Installer.exe",
-    "notes": "Use GITHUB_TOKEN for same-repo engine binary download"
   }
 ]
