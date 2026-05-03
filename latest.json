@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+57/Vies-x86_64-1.0.0+57-Installer.exe",
+    "notes": "Refresh app branding with new icons, splash screens, and About dialog",
+    "version": "1.0.0+57"
+  },
+  {
     "version": "1.0.0+56",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+56/Vies-x86_64-1.0.0+56-Installer.exe",
     "notes": "Per-page OG images, BlogPosting/BreadcrumbList schemas, internal links"
@@ -93,10 +98,5 @@
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+38/Vies-x86_64-1.0.0+38-Installer.exe",
     "version": "1.0.0+38",
     "notes": "Fresh install UX overhaul — downloads, mics, errors, overlay"
-  },
-  {
-    "notes": "Show loopback audio inputs in release builds",
-    "version": "1.0.0+37",
-    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+37/Vies-x86_64-1.0.0+37-Installer.exe"
   }
 ]
