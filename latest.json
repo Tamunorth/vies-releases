@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+60",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+60/Vies-x86_64-1.0.0+60-Installer.exe",
+    "notes": "Re-bundle CUDA DLLs in installer (revert runtime --dll-dir approach)"
+  },
+  {
     "notes": "Runtime CUDA loading via --dll-dir + AV-resilient model download finalize",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+59/Vies-x86_64-1.0.0+59-Installer.exe",
     "version": "1.0.0+59"
@@ -93,10 +98,5 @@
     "notes": "Retrigger CI with slim engine-binaries",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+41/Vies-x86_64-1.0.0+41-Installer.exe",
     "version": "1.0.0+41"
-  },
-  {
-    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+40/Vies-x86_64-1.0.0+40-Installer.exe",
-    "notes": "Slim installer (474MB→170MB) + grouped download dialog",
-    "version": "1.0.0+40"
   }
 ]
