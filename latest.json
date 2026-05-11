@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.0.0+62",
+    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+62/Vies-x86_64-1.0.0+62-Installer.exe",
+    "notes": "Wire Sentry, bundle vcredist+CRT, label 0xC0000409 crashes"
+  },
+  {
     "version": "1.0.0+61",
     "notes": "Re-trigger CI with bundled-CUDA engine-binaries",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+61/Vies-x86_64-1.0.0+61-Installer.exe"
@@ -93,10 +98,5 @@
     "version": "1.0.0+43",
     "notes": "Download packs to writable app data dir, not Program Files",
     "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+43/Vies-x86_64-1.0.0+43-Installer.exe"
-  },
-  {
-    "notes": "Add ggml-cuda.dll to core engine + move packs to public repo",
-    "url": "https://github.com/Tamunorth/vies-releases/releases/download/v1.0.0+42/Vies-x86_64-1.0.0+42-Installer.exe",
-    "version": "1.0.0+42"
   }
 ]
